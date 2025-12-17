@@ -46,6 +46,7 @@ Projede, halka açık kaynaklardan derlenen Türkçe ürün yorumları kullanıl
     * Noktalama işaretleri ve özel karakterler temizlendi.
     * Türkçe etkisiz kelimeler (Stopwords) `nltk` kütüphanesi kullanılarak çıkarıldı.
     * Veri seti **%80 Eğitim (Train)** ve **%20 Test (Test)** olarak ayrıldı.
+    * Veri seti adresi: https://www.kaggle.com/datasets/burhanbilenn/turkish-customer-reviews-for-binary-classification/code
 
 ---
 
