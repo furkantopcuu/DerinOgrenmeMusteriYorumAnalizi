@@ -104,7 +104,7 @@ Proje Python 3.x gerektirir. Gerekli kütüphaneleri yüklemek için:
 pip install transformers datasets evaluate accelerate scikit-learn seaborn matplotlib nltk torch gradio
 
 ### Çalıştırma
-1.  Repo'yu klonlayın veya zip olarak indirin.
+1.  Repo'yu klonlayın, zip olarak indirin veya colab linkinden çalıştırın. https://colab.research.google.com/drive/1hmlVd6mE39-21yCN7Yhkks-xfnM2rGCG?usp=sharing
 2.  `derin_ogrenme_proje.ipynb` dosyasını Jupyter Notebook veya Google Colab ile açın.
 3.  Hücreleri sırasıyla çalıştırın.
 
